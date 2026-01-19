@@ -33,9 +33,10 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Two families in north Germany deal with love across rigid class boundaries in turbulent times.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The stranding of their ship on a sandbank introduces Elsa von Werben, daughter of the celebrated General von Werben, to Reinhold Schmidt, merchant captain. The blossoming friendship gets a further boost when Reinhold discovers that the von Werbens are neighbours to the uncle in Berlin he’s staying with. But his uncle and the General have an unhappy history and their own familial problems to deal with. For the time being life continues in a whirl of society and art, but people are playing dangerous games and the storm clouds are mounting.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/friedrich-spielhagen"&gt;Friedrich Spielhagen&lt;/a&gt; was a celebrated German author during the second half of the nineteenth century. &lt;i&gt;The Breaking of the Storm&lt;/i&gt; is his most famous work, and weaves fictional characters and relationships into real life events, including the German revolution of 1848, the 1872 Baltic Sea flood, and financial panic of 1873.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34657</dc:source>
@@ -44,7 +45,6 @@
 		<dc:source>https://www.archive.org/details/breakingstormtr00spiegoog</dc:source>
 		<dc:source>https://www.archive.org/details/breakingstormtr01spiegoog</dc:source>
 		<dc:source>https://www.archive.org/details/breakingstormtr02spiegoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Breaking_of_the_Storm</meta>
