@@ -42,9 +42,9 @@
 		<dc:source>https://www.gutenberg.org/ebooks/34657</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/34658</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/34659</dc:source>
-		<dc:source>https://www.archive.org/details/breakingstormtr00spiegoog</dc:source>
-		<dc:source>https://www.archive.org/details/breakingstormtr01spiegoog</dc:source>
-		<dc:source>https://www.archive.org/details/breakingstormtr02spiegoog</dc:source>
+		<dc:source>https://archive.org/details/breakingstormtr00spiegoog</dc:source>
+		<dc:source>https://archive.org/details/breakingstormtr01spiegoog</dc:source>
+		<dc:source>https://archive.org/details/breakingstormtr02spiegoog</dc:source>
 		<meta property="se:word-count">244551</meta>
 		<meta property="se:reading-ease.flesch">66.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Breaking_of_the_Storm</meta>
