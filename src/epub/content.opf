@@ -49,7 +49,7 @@
 		<meta property="schema:wordCount">244551</meta>
 		<meta property="schema:educationalLevel">66.57</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Breaking_of_the_Storm" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/friedrich-spielhagen_the-breaking-of-the-storm_s-e-a-h-stephenson" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Friedrich Spielhagen</dc:creator>
