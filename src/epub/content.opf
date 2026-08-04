@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Two families in north Germany deal with love across rigid class boundaries in turbulent times.</dc:abstract>
+		<meta property="schema:abstract">Two families in north Germany deal with love across rigid class boundaries in turbulent times.</meta>
 		<dc:description>
 			&lt;p&gt;The stranding of their ship on a sandbank introduces Elsa von Werben, daughter of the celebrated General von Werben, to Reinhold Schmidt, merchant captain. Their blossoming friendship gets a further boost when Reinhold discovers that the von Werbens are neighbors to the uncle in Berlin he’s staying with. But his uncle and the General have an unhappy history and their own familial problems to deal with. For the time being life continues in a whirl of society and art, but people are playing dangerous games and the storm clouds are mounting.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Breaking of the Storm&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/friedrich-spielhagen"&gt;Friedrich Spielhagen’s&lt;/a&gt; most famous work, and weaves fictional characters and relationships into real life events, including the German revolution of 1848, the 1872 Baltic Sea flood, and financial panic of 1873.&lt;/p&gt;
